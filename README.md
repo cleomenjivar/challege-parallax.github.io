@@ -1,1 +1,1 @@
-# challege-parallax.github.io
+# challenge-parallax.github.io
